@@ -5,3 +5,5 @@
 (https://github.com/ksgavrilenko/web/commit/2af521f60f2401d3ea21069a0e976f65e8a9dc11)
 [Тестовый прогон для Корзины и Оплаты]
 (https://github.com/ksgavrilenko/web/commit/b763690be2e97e193e8b87250a3df13d451aaab3)
+[Отчет о дефектах для Корзины и Оплаты]
+(https://github.com/ksgavrilenko/web/commit/35d0aa0692f6dc38438c1d7d48b7c7a9e1e4dcce)
